@@ -1,11 +1,11 @@
-<img align="left" width="130" src="https://i.pinimg.com/originals/e2/0b/89/e20b8922689227ba0761fb53f415933e.gif">
+<img align="left" width="400" src="https://i.pinimg.com/originals/e2/0b/89/e20b8922689227ba0761fb53f415933e.gif">
 <h1 align="center">Hello 👋, I'm Cường Lê</h1>
 <p align="center">
-  <h3 align="center">Trùm rọ mõm mấy con chó :))) </h3>
+  <h3 align="center">Ở đây chúng tôi chỉ xàm l thôi =)) </h3>
 </p>
 
 
-- ✍ I'm a student of: [Quy Nhon University](https://www.qnu.edu.vn/).
+-✍ I'm a student of: [Quy Nhon University](https://www.qnu.edu.vn/).
 
 <br />
 
@@ -31,7 +31,6 @@
   <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/mysql.png" alt="mysql"/>
   <img width="48" height="48" src="https://img.icons8.com/badges/48/c-sharp-logo.png" alt="c-sharp-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/doodle/48/c.png" alt="c"/>
-  <img width="64" height="64" src="https://img.icons8.com/dusk/64/python.png" alt="python"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="visual-studio--v1"/>
-  <img width="64" height="64" src="https://img.icons8.com/nolan/64/html-filetype.png" alt="html-filetype"/>
+  <img width="48" height="48" src="https://img.icons8.com/dusk/64/python.png" alt="python"/>
+  <img width="48" height="48" src="https://img.icons8.com/nolan/64/html-filetype.png" alt="html-filetype"/>
 </p>
