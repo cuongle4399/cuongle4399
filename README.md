@@ -1,5 +1,6 @@
 
-<img align="left" width="80" src="https://i.pinimg.com/originals/ee/cb/2e/eecb2e9659e4afeecf0f5200cd2d14f7.gif">
+<img align="left" width="90" height ="70" src="https://i.pinimg.com/originals/ee/cb/2e/eecb2e9659e4afeecf0f5200cd2d14f7.gif">
+<img align="right" width ="65"src="https://i.pinimg.com/564x/88/27/bb/8827bbc8c29f03051af74c6ee982aab5.jpg">
 <h1 align="center">Hello 👋, I'm Cường Lê</h1>
 <p align="center">
   <h5 align="center">Có tiền thì donate cho mình đêeee !!!</h5>
