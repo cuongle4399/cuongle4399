@@ -11,8 +11,6 @@
 
 ## 📫Thông tin cá nhân
 
-[![Join the chat at https://gitter.im/cuongle4399/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100033805601997" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
@@ -28,7 +26,7 @@
   </a>
 </p>
 
-## Skills:
+## Đã học qua các ngôn ngữ:
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/mysql.png" alt="mysql"/>
   <img width="48" height="48" src="https://img.icons8.com/badges/48/c-sharp-logo.png" alt="c-sharp-logo"/>
