@@ -1,5 +1,5 @@
 
-<img align="left" width="1000" src="https://i.pinimg.com/originals/e2/0b/89/e20b8922689227ba0761fb53f415933e.gif">
+<img align="left" width="80" src="https://i.pinimg.com/originals/ee/cb/2e/eecb2e9659e4afeecf0f5200cd2d14f7.gif">
 <h1 align="center">Hello 👋, I'm Cường Lê</h1>
 <p align="center">
   <h5 align="center">Có tiền thì donate cho mình đêeee !!!</h5>
