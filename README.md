@@ -1,7 +1,4 @@
-
-<img align="left" width="90" height ="70" src="https://i.pinimg.com/originals/ee/cb/2e/eecb2e9659e4afeecf0f5200cd2d14f7.gif">
-
-<img align="right" width="90" height ="50" src="https://i.pinimg.com/originals/22/bb/4f/22bb4f05ac18c38f7db8cecccb826698.gif">
+<img align="left" width="120" height ="70" src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif">
 <h1 align="center">Hello 👋, I'm Cường Lê</h1>
 <p align="center">
   <h5 align="center">Có tiền thì donate cho mình đêeee !!!</h5>
@@ -36,4 +33,7 @@
   <img width="48" height="48" src="https://img.icons8.com/doodle/48/c.png" alt="c"/>
   <img width="48" height="48" src="https://img.icons8.com/dusk/64/python.png" alt="python"/>
   <img width="48" height="48" src="https://img.icons8.com/nolan/64/html-filetype.png" alt="html-filetype"/>
+</p>
+<p align="center">
+<img width="900" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
 </p>
