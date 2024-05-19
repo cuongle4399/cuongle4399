@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://i.pinimg.com/originals/e2/0b/89/e20b8922689227ba0761fb53f415933e.gif" width="300" height="200>
+<img align="left" width="370" src="https://i.pinimg.com/originals/e2/0b/89/e20b8922689227ba0761fb53f415933e.gif>
 <h1 align="center">Hello 👋, I'm Cường Lê</h1>
 <p align="center">
   <h3 align="center">Trùm rọ mõm mấy con chó :))) </h3>
