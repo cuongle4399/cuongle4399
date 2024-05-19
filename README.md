@@ -15,8 +15,8 @@
   <a href="https://www.facebook.com/profile.php?id=100033805601997" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/cuongle4399" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  <a href="https://www.tiktok.com/@cuongle_77?lang=vi-VN" alt="tik tok">
+   <img width="48" height="48" src="https://img.icons8.com/doodle/48/tiktok--v1.png" alt="tiktok--v1"/>
   </a> 
   <a href="https://www.youtube.com/channel/UCx5mWoYw70r2yJe6dH9--8w" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
