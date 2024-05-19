@@ -1,7 +1,7 @@
 <img align="left" width="400" src="https://i.pinimg.com/originals/e2/0b/89/e20b8922689227ba0761fb53f415933e.gif">
 <h1 align="center">Hello 👋, I'm Cường Lê</h1>
 <p align="center">
-  <h3 align="center">Ở đây chúng tôi chỉ xàm l thôi =)) </h3>
+  <h3 align="center">Nhìn chó gì :))) </h3>
 </p>
 
 
