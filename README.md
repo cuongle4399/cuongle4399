@@ -21,9 +21,6 @@
   <a href="https://www.youtube.com/channel/UCx5mWoYw70r2yJe6dH9--8w" alt="Youtube channel" target="_blank" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="mailto:cuong01697072089@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
 </p>
 
 ## Đã học qua các ngôn ngữ:
