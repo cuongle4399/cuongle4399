@@ -1,16 +1,39 @@
-### Hi there 👋
+<img align="left" width="400" src="https://i.pinimg.com/originals/e2/0b/89/e20b8922689227ba0761fb53f415933e.gif">
+<h1 align="center">Hello 👋, I'm Cường Lê</h1>
+<p align="center">
+  <h3 align="center">Trùm rọ mõm mấy con chó :))) </h3>
+</p>
 
-<!--
-**cuongle4399/cuongle4399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- ✍ I'm a student of: [Quy Nhon University](https://www.qnu.edu.vn/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+## 📫Thông tin cá nhân
+
+[![Join the chat at https://gitter.im/cuongle4399/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100033805601997" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/cuongle4399" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="https://www.youtube.com/channel/UCx5mWoYw70r2yJe6dH9--8w" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+  </a>
+  <a href="mailto:cuong01697072089@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
+
+## Skills:
+<p align="center">
+  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/mysql.png" alt="mysql"/>
+  <img width="48" height="48" src="https://img.icons8.com/badges/48/c-sharp-logo.png" alt="c-sharp-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/doodle/48/c.png" alt="c"/>
+  <img width="64" height="64" src="https://img.icons8.com/dusk/64/python.png" alt="python"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v1.png" alt="visual-studio--v1"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/html-filetype.png" alt="html-filetype"/>
+</p>
