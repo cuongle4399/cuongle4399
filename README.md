@@ -30,6 +30,8 @@
   <img width="48" height="48" src="https://img.icons8.com/doodle/48/c.png" alt="c"/>
   <img width="48" height="48" src="https://img.icons8.com/dusk/64/python.png" alt="python"/>
   <img width="48" height="48" src="https://img.icons8.com/nolan/64/html-filetype.png" alt="html-filetype"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-sapphire-kerismaker/48/external-CSS-web-maintenance-sapphire-kerismaker.png" alt="CSS"/>
+  <img width="48" height="48" src="https://img.icons8.com/dusk/64/javascript-logo.png" alt="javascript-logo"/>
 </p>
 <p align="center">
 <img width="900" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
