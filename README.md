@@ -32,8 +32,8 @@
   <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/mysql.png" alt="mysql"/>
   <img width="48" height="48" src="https://img.icons8.com/badges/48/c-sharp-logo.png" alt="c-sharp-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/doodle/48/c.png" alt="c"/>
-  <img width="48" height="48" src="https://img.icons8.com/nolan/64/html-filetype.png" alt="html-filetype"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-sapphire-kerismaker/48/external-CSS-web-maintenance-sapphire-kerismaker.png" alt="CSS"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="55" height="55" src="https://img.icons8.com/plasticine/100/css3.png" alt="css3"/>
   <img width="48" height="48" src="https://img.icons8.com/dusk/64/javascript-logo.png" alt="javascript-logo"/>
 </p>
 <p align="center">
