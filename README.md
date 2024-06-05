@@ -6,7 +6,11 @@
 
 
 -✍ I'm a student of: [Quy Nhon University](https://www.qnu.edu.vn/).
-
+<br/>
+  </a>
+    <a hrel="https://docs.google.com/document/d/1nRTXUnwv2zDyP27NkN-ItGa2NozNRdr5x6eukYvXdUE/edit"> 
+    <img width="50" height="50" src="https://img.icons8.com/bubbles/50/microsoft-word-2019.png" alt="microsoft-word-2019"> 
+  </a>
 <br />
 
 ## 📫Thông tin cá nhân
@@ -20,7 +24,6 @@
   </a> 
   <a href="https://www.youtube.com/channel/UCx5mWoYw70r2yJe6dH9--8w" alt="Youtube channel" target="_parent" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
 </p>
 
 ## Đã học qua các ngôn ngữ:
@@ -36,3 +39,4 @@
 <p align="center">
 <img width="900" src="https://i.pinimg.com/originals/7a/e3/c7/7ae3c7ad104a968dc735871c0bf17608.gif">
 </p>
+
