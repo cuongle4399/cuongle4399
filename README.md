@@ -8,7 +8,7 @@
 -✍ I'm a student of: [Quy Nhon University](https://www.qnu.edu.vn/).
 <br/>
   </a>
-    <a hrel="https://docs.google.com/document/d/1nRTXUnwv2zDyP27NkN-ItGa2NozNRdr5x6eukYvXdUE/edit"> 
+    <a href="https://docs.google.com/document/d/1nRTXUnwv2zDyP27NkN-ItGa2NozNRdr5x6eukYvXdUE/edit"> 
     <img width="50" height="50" src="https://img.icons8.com/bubbles/50/microsoft-word-2019.png" alt="microsoft-word-2019"> 
   </a>
 <br />
