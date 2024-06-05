@@ -9,7 +9,7 @@
 <br/>
   </a>
     <a href="https://docs.google.com/document/d/1nRTXUnwv2zDyP27NkN-ItGa2NozNRdr5x6eukYvXdUE/edit"> 
-    <img width="50" height="50" src="https://img.icons8.com/bubbles/50/microsoft-word-2019.png" alt="microsoft-word-2019"> 
+    <img width="48" height="48" src="https://img.icons8.com/bubbles/50/microsoft-word-2019.png" alt="microsoft-word-2019"> 
   </a>
 <br />
 
@@ -24,6 +24,9 @@
   </a> 
   <a href="https://www.youtube.com/channel/UCx5mWoYw70r2yJe6dH9--8w" alt="Youtube channel" target="_parent" >
     <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
+      <a href="https://open.spotify.com/playlist/0IRacamycJ1frXq2xS8UnV"> 
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-filled-tal-revivo.png" alt="external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-filled-tal-revivo"/>
+  </a>
 </p>
 
 ## Đã học qua các ngôn ngữ:
