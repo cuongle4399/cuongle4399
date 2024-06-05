@@ -1,4 +1,4 @@
-<img align="left" width="120" height ="70" src="https://i.pinimg.com/originals/49/a5/4d/49a54d1942432e529b69c70063e6768c.gif">
+<img align="left" width="120" height ="70" src="https://i.pinimg.com/originals/2e/e6/4c/2ee64c1f8e4358d928d265f5b8389a35.gif">
 <h1 align="center">Hi bro 👋, I'm Cường Lê</h1>
 <p align="center">
   <h5 align="center">Ai giàu thì donate cho mình đêeee !!!</h5>
