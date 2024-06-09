@@ -5,7 +5,7 @@
 </p>
 
 -✍ I'm a student of: [Quy Nhon University](https://www.qnu.edu.vn/).
-<h5> Bạn có thể để lại tin nhắn cho tôi bằng file bên dưới </h5>
+<h5> Bạn có thể để lại lời nhắn cho tôi bằng file bên dưới </h5>
 <br/>
     <a href="https://docs.google.com/document/d/1nRTXUnwv2zDyP27NkN-ItGa2NozNRdr5x6eukYvXdUE/edit">
     <img width="48" height="48" src="https://img.icons8.com/bubbles/50/microsoft-word-2019.png" alt="microsoft-word-2019"> 
