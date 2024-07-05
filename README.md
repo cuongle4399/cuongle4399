@@ -1,4 +1,4 @@
-<h1 align="center">Hi bro🙂 I'm Cường Lê</h1>
+<h1 align="center">Hi bro 🤠 I'm Cường Lê</h1>
 <p align="center">
   <h5 align="center">Ai giàu thì donate cho mình đêeee !!!</h5>
 </p>
