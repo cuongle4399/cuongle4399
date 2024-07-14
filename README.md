@@ -29,7 +29,6 @@
 
 ## 📗Đã học qua các ngôn ngữ:
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/mysql.png" alt="mysql"/>
   <img width="48" height="48" src="https://img.icons8.com/badges/48/c-sharp-logo.png" alt="c-sharp-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/doodle/48/c.png" alt="c"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
