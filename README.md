@@ -27,7 +27,7 @@
   </a>
 </p>
 
-## 📗Đã học qua các ngôn ngữ:
+## 📗Đã học qua:
 <p align="center">
   <img width="48" height="48" src="https://img.icons8.com/badges/48/c-sharp-logo.png" alt="c-sharp-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/doodle/48/c.png" alt="c"/>
