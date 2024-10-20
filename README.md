@@ -3,11 +3,10 @@
 </p>
 
 -✍ I'm a student of: [Quy Nhon University](https://www.qnu.edu.vn/).
-<h5> Bạn có thể để lại lời nhắn cho tôi bằng file bên dưới </h5>
 <br/>
-    <a href="https://docs.google.com/document/d/1nRTXUnwv2zDyP27NkN-ItGa2NozNRdr5x6eukYvXdUE/edit">
-    <img width="48" height="48" src="https://img.icons8.com/bubbles/50/microsoft-word-2019.png" alt="microsoft-word-2019"> 
-  </a>
+  <a align="left" href="https://www.facebook.com/cuongle1002">
+  <img width=30px  src="https://img.icons8.com/?size=100&id=114441&format=png&color=000000" />
+</a>
 <br />
 
 ## 📗Đã học qua:
@@ -18,10 +17,12 @@
   <img width="48" height="48" src="https://img.icons8.com/?size=100&id=46630&format=png&color=000000" alt="java"/>
 </p>
 <a href="https://github.com/cuongle4399/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cuongle4399&theme=tokyonight&show_icons=true"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cuongle4399&theme=buefy&show_icons=true"/>
 </a>
 <a href="https://github.com/cuongle4399/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongle4399&theme=tokyonight" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongle4399&theme=buefy" />
 </a>
+
+
 
 
