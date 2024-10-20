@@ -37,4 +37,5 @@
 <p align="center">
 <img width="500" src="https://github.com/cuongle4399/C-Winform--QLTK-nro/blob/master/Resources/xamhaha.gif">
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuongle4399)](https://github.com/cuongle4399/github-readme-stats)
 
