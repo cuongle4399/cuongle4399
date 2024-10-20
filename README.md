@@ -10,31 +10,18 @@
   </a>
 <br />
 
-## 📫Thông tin cá nhân
-
-<p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100033805601997" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://www.tiktok.com/@cuongle_77?lang=vi-VN" alt="tik tok">
-   <img width="48" height="48" src="https://img.icons8.com/doodle/48/tiktok--v1.png" alt="tiktok--v1"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCx5mWoYw70r2yJe6dH9--8w" alt="Youtube channel" target="_parent" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-      <a href="https://open.spotify.com/playlist/0IRacamycJ1frXq2xS8UnV"> 
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-filled-tal-revivo.png" alt="external-spotify-a-swedish-audio-streaming-platform-that-provides-drm-protected-logo-filled-tal-revivo"/>
-  </a>
-</p>
-
 ## 📗Đã học qua:
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/badges/48/c-sharp-logo.png" alt="c-sharp-logo"/>
-  <img width="48" height="48" src="https://img.icons8.com/doodle/48/c.png" alt="c"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="52" height="52" src="https://img.icons8.com/plasticine/100/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/dusk/64/javascript-logo.png" alt="javascript-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c"/>
+  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++"/>
+  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#"/>
+  <img width="48" height="48" src="https://img.icons8.com/?size=100&id=46630&format=png&color=000000" alt="java"/>
 </p>
-<p align="center">
-<img width="500" src="https://github.com/cuongle4399/C-Winform--QLTK-nro/blob/master/Resources/xamhaha.gif">
-</p>
+<a href="https://github.com/cuongle4399/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cuongle4399&theme=tokyonight&show_icons=true"/>
+</a>
+<a href="https://github.com/cuongle4399/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongle4399&theme=tokyonight" />
+</a>
+
 
