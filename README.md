@@ -9,7 +9,7 @@
 </a>
 <br />
 
-## 📗Đã học qua:
+## 📗Đã thông thạo:
 <p align="center">
   <a href= "https://vi.wikipedia.org/wiki/C_(ng%C3%B4n_ng%E1%BB%AF_l%E1%BA%ADp_tr%C3%ACnh)" >
     <img width="48" height="48" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c"/>
