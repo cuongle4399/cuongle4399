@@ -7,7 +7,6 @@
   <a align="left" href="https://www.facebook.com/cuongle1002">
   <img width=30px  src="https://img.icons8.com/color/48/facebook-circled--v1.png" />
 </a>
-<br/>
   <a href="https://docs.google.com/document/d/1803DsCTBAqAgQcU9tV9aNexZImeTaCa-iUjWeLKJcuE/edit?usp=sharing">
   <img width=30px  src="https://img.icons8.com/emoji/48/notebook-emoji.png" />
 </a>
