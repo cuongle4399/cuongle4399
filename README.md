@@ -5,11 +5,11 @@
 -✍ I'm a student of: [Quy Nhon University](https://www.qnu.edu.vn/).
 <br/>
   <a align="left" href="https://www.facebook.com/cuongle1002">
-  <img width=30px  src="https://icons8.com/icon/B3ueFHOl3rWJ/notebook-emoji" />
+  <img width=30px  src="https://img.icons8.com/color/48/facebook-circled--v1.png" />
 </a>
 <br/>
-  <a align="left" href="https://docs.google.com/document/d/1803DsCTBAqAgQcU9tV9aNexZImeTaCa-iUjWeLKJcuE/edit?usp=sharing">
-  <img width=30px  src="https://img.icons8.com/?size=100&id=114441&format=png&color=000000" />
+  <a href="https://docs.google.com/document/d/1803DsCTBAqAgQcU9tV9aNexZImeTaCa-iUjWeLKJcuE/edit?usp=sharing">
+  <img width=30px  src="https://img.icons8.com/emoji/48/notebook-emoji.png" />
 </a>
 <br />
 
