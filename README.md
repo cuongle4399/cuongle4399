@@ -1,5 +1,3 @@
-<h1 align="center">Hi bro 🤠</h1>
-<p align="center">
 </p>
 
 -✍ I'm a student of: [Quy Nhon University](https://www.qnu.edu.vn/).
