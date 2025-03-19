@@ -33,7 +33,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cuongle4399&theme=buefy&show_icons=true"/>
 </a>
 <a href="https://github.com/cuongle4399/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongle4399&theme=buefy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongle4399&theme=buefy&langs_count=3" />
 </a>
 
 
