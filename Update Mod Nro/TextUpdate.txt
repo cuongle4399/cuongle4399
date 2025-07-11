@@ -1,0 +1,4 @@
+- Cập nhật chức năng update tự động của QLTK từ ae phiên bản cũ khi có phiên bản mới sẽ không phải lọ mọ đi tải bản mới nữa
+- Fix hiển thị danh sách nhân vật như Dũng Phạm
+- Paint nút load Map cho ae dừng XMap
+- Sửa nhiều lỗi linh tinh và chức năng mod đang lỗi logic 
