@@ -2,8 +2,13 @@
 
 -✍ I'm a student of: [Quy Nhon University](https://www.qnu.edu.vn/).
 <br/>
+
   <a align="left" href="https://www.facebook.com/cuongle1002">
   <img width=30px  src="https://img.icons8.com/color/48/facebook-circled--v1.png" />
+</a>
+</a>
+  <a href="https://www.youtube.com/@cuongmikasa">
+  <img width="30" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/>
 </a>
   <a href="https://docs.google.com/document/d/1803DsCTBAqAgQcU9tV9aNexZImeTaCa-iUjWeLKJcuE/edit?usp=sharing">
   <img width=30px  src="https://img.icons8.com/emoji/48/notebook-emoji.png" />
