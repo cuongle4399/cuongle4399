@@ -1,47 +1,55 @@
-</p>
+<!-- HEADER -->
 
--✍ I'm a student of: [Quy Nhon University](https://www.qnu.edu.vn/).
-<br/>
-
-  <a align="left" href="https://www.facebook.com/cuongle1002">
-  <img width=30px  src="https://img.icons8.com/color/48/facebook-circled--v1.png" />
-</a>
-</a>
-  <a href="https://www.youtube.com/@cuongmikasa">
-  <img width="30" src="https://img.icons8.com/color/48/youtube-play.png" alt="youtube-play"/>
-</a>
-  <a href="https://docs.google.com/document/d/1803DsCTBAqAgQcU9tV9aNexZImeTaCa-iUjWeLKJcuE/edit?usp=sharing">
-  <img width=30px  src="https://img.icons8.com/emoji/48/notebook-emoji.png" />
-</a>
-</a>
-  <a href="https://docs.google.com/document/d/1Z_KPB0g4DMISX40SXucIt0QM6syYUOuCUcK_C-YEmiI/edit?usp=sharing">
-  <img width=30px  src="https://img.icons8.com/parakeet/48/notepad.png" />
-</a>
-<br />
-
-## 📗Language:
 <p align="center">
-  <a href= "https://vi.wikipedia.org/wiki/C_(ng%C3%B4n_ng%E1%BB%AF_l%E1%BA%ADp_tr%C3%ACnh)" >
-    <img width="48" height="48" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" alt="c"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Cuong%20Le&fontSize=45&fontColor=00F7FF&animation=fadeIn"/>
+</p>
+
+## 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=FF4C4C&center=true&vCenter=true&width=600&lines=✍+Student+at+Quy+Nhon+University;💻+Backend+•+Automation+•+Bots;⚡+Love+building+tools+more+than+sleeping+😆" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.facebook.com/cuongle1002">
+    <img width="40" src="https://img.icons8.com/color/48/facebook-circled--v1.png"/>
   </a>
-  <a href="https://vi.wikipedia.org/wiki/C%2B%2B" >
-    <img width="48" height="48" src="https://img.icons8.com/?size=100&id=40669&format=png&color=000000" alt="C++"/>
+  <a href="https://www.youtube.com/@cuongmikasa">
+    <img width="40" src="https://img.icons8.com/color/48/youtube-play.png"/>
   </a>
-  <a href="https://vi.wikipedia.org/wiki/C_Sharp_(ng%C3%B4n_ng%E1%BB%AF_l%E1%BA%ADp_tr%C3%ACnh)" >
-    <img width="48" height="48" src="https://img.icons8.com/?size=100&id=55251&format=png&color=000000" alt="C#"/>
+  <a href="https://docs.google.com/document/d/1803DsCTBAqAgQcU9tV9aNexZImeTaCa-iUjWeLKJcuE/edit">
+    <img width="40" src="https://img.icons8.com/emoji/48/notebook-emoji.png"/>
   </a>
-  <a href="https://vi.wikipedia.org/wiki/Java_(ng%C3%B4n_ng%E1%BB%AF_l%E1%BA%ADp_tr%C3%ACnh)" >
-    <img width="48" height="48" src="https://img.icons8.com/?size=100&id=46630&format=png&color=000000" alt="java"/>
+  <a href="https://docs.google.com/document/d/1Z_KPB0g4DMISX40SXucIt0QM6syYUOuCUcK_C-YEmiI/edit">
+    <img width="40" src="https://img.icons8.com/parakeet/48/notepad.png"/>
   </a>
 </p>
-<a href="https://github.com/cuongle4399/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cuongle4399&theme=buefy&show_icons=true"/>
-</a>
-<a href="https://github.com/cuongle4399/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuongle4399&theme=buefy&langs_count=3" />
-</a>
 
+---
 
+## 🧠 Languages & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,php,nodejs,mysql,git,github,vscode,python" />
+</p>
 
+---
 
+## 📊 GitHub Dashboard
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cuongle4399&show_icons=true&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cuongle4399&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cuongle4399&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cuongle4399&theme=tokyonight"/>
+</p>
