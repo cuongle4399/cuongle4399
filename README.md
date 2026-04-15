@@ -18,7 +18,7 @@
   <a href="https://docs.google.com/document/d/1803DsCTBAqAgQcU9tV9aNexZImeTaCa-iUjWeLKJcuE/edit">
     <img width="40" src="https://img.icons8.com/emoji/48/notebook-emoji.png"/>
   </a>
-  <a href="https://docs.google.com/document/d/1Z_KPB0g4DMISX40SXucIt0QM6syYUOuCUcK_C-YEmiI/edit">
+  <a href="[https://docs.google.com/document/d/1Z_KPB0g4DMISX40SXucIt0QM6syYUOuCUcK_C-YEmiI/edit](https://docs.google.com/document/d/14JQjo8kwFW5TZODc2lUj_rz55DxAhdNhzaE1DtZGLp0/edit?usp=sharing)">
     <img width="40" src="https://img.icons8.com/parakeet/48/notepad.png"/>
   </a>
 </p>
