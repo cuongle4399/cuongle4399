@@ -34,12 +34,6 @@
 ---
 
 ## 📊 GitHub Dashboard
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cuongle4399&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=cuongle4399&layout=compact&theme=tokyonight"/>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=cuongle4399&theme=tokyonight"/>
 </p>
